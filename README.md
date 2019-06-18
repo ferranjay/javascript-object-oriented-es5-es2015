@@ -1,4 +1,4 @@
-Udemy course, practice Object Oriented JavaScript ES5 & ES2015
+Object Oriented JavaScript practice (ES5 & ES2015)
 
 Lesson 1:
 Constructors & the 'this' Keyword.
